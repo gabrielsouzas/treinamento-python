@@ -1,2 +1,1 @@
-# treinamento-python
- Treinamento Python Microsoft Learn
+# Treinamento Python Microsoft Learn
