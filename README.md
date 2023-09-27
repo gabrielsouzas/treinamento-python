@@ -4,4 +4,12 @@ Treinamento para iniciantes em **Python** fornecido pela **Microsoft** através 
 
 Para ter acesso a esse treinamento é necessário ter uma conta de e-mail na Microsoft, como hotmail, outlook, etc.
 
-## Etapas concluídas
+## Etapas
+
+[x] - Tipos boolianos;
+[x] - Cadeias de caracteres;
+[x] - Operações matemáticas;
+[ ] - Listas e loops;
+[ ] - Dicionários;
+[ ] - Funções;
+[ ] - Verificação de erros.
