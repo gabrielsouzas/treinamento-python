@@ -6,10 +6,10 @@ Para ter acesso a esse treinamento é necessário ter uma conta de e-mail na Mic
 
 ## Etapas
 
-[x] - Tipos boolianos;
-[x] - Cadeias de caracteres;
-[x] - Operações matemáticas;
-[ ] - Listas e loops;
-[ ] - Dicionários;
-[ ] - Funções;
-[ ] - Verificação de erros.
+-   [x] Tipos boolianos;
+-   [x] Cadeias de caracteres;
+-   [x] Operações matemáticas;
+-   [ ] Listas e loops;
+-   [ ] Dicionários;
+-   [ ] Funções;
+-   [ ] Verificação de erros.
