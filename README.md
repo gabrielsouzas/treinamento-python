@@ -13,3 +13,11 @@ Para ter acesso a esse treinamento é necessário ter uma conta de e-mail na Mic
 -   [ ] Dicionários;
 -   [ ] Funções;
 -   [ ] Verificação de erros.
+
+## Sobre Python
+
+Python é uma linguagem de programação de alto nível, interpretada de script, imperativa, orientada a objetos, funcional, de tipagem dinâmica e forte. Foi lançada por Guido van Rossum em 1991.
+
+-   **[Página oficial](https://www.python.org/)**;
+-   **[Última instalação](https://www.python.org/downloads/release/python-3115/)**;
+-   **[Guia para iniciantes](https://www.python.org/about/gettingstarted/)**;
