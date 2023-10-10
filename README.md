@@ -10,7 +10,7 @@ Para ter acesso a esse treinamento é necessário ter uma conta de e-mail na Mic
 -   [x] Cadeias de caracteres;
 -   [x] Operações matemáticas;
 -   [x] Listas e loops;
--   [ ] Dicionários;
+-   [x] Dicionários;
 -   [ ] Funções;
 -   [ ] Verificação de erros.
 
