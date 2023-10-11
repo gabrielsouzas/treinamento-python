@@ -11,7 +11,7 @@ Para ter acesso a esse treinamento é necessário ter uma conta de e-mail na Mic
 -   [x] Operações matemáticas;
 -   [x] Listas e loops;
 -   [x] Dicionários;
--   [ ] Funções;
+-   [x] Funções;
 -   [ ] Verificação de erros.
 
 ## Sobre Python

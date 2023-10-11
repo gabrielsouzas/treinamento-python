@@ -9,16 +9,13 @@ def generate_report(main_tank, external_tank, hydrogen_tank):
 
 generate_report(80, 70, 75)
 
-# Usar argumentos de palavra-chave no Python
 
-from datetime import timedelta, datetime
-
-
-def arrival_time(hours=51):
-    now = datetime.now()
-    arrival = now + timedelta(hours=hours)
-    return arrival.strftime("Arrival: %A %H:%M")
+# Create an updated fuel report function
 
 
-print(arrival_time())
-print(arrival_time(2))
+def fuel_report(**fuel_tanks):
+    for name, value in fuel_tanks.items():
+        print(f"{name}: {value}")
+
+
+fuel_report(main=50, external=100, emergency=60)
