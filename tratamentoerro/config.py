@@ -16,7 +16,7 @@ if __name__ == "__main__":
 #     configuration = open('config.txt')
 # IsADirectoryError: [Errno 21] Is a # directory: 'config.txt'
 
-# Correção para qualquer tipo de exceção:
+# Correção para qualquer tipo de exceção
 
 
 def main():
@@ -29,7 +29,7 @@ def main():
 # O problema agora é que a mensagem de erro está incorreta. O diretório existe, mas tem permissões diferentes e o Python não pode lê-lo
 
 
-# Traar erro de permissão/diretorio e de arquivo não encontrado:
+# Tratar erro de permissão/diretorio e de arquivo não encontrado
 
 
 def main():
@@ -55,7 +55,7 @@ def main():
         print("Filesystem under heavy load, can't complete reading configuration file")
 
 
-# Imprimir erro:
+# Imprimir erro
 
 try:
     open("mars.jpg")
@@ -63,7 +63,7 @@ except FileNotFoundError as err:
     print("Got a problem trying to read the file:", err)
 
 
-# Diferenciando exceções pelo código do erro:
+# Diferenciando exceções pelo código do erro
 
 try:
     open("config.txt")
